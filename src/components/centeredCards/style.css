@@ -1,0 +1,11 @@
+.container-children {
+  width: 200px;
+  height: 220px;
+  background-color: cyan;
+  color: rgba(9, 90, 110, 0.932);
+  border-radius: 7px;
+  margin: 5px;
+}
+h1 {
+  font-size: 21px;
+}
